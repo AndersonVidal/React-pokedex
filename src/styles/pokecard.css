@@ -1,13 +1,11 @@
 .Pokecard {
-  background-color: lightgray;
-  height: 230px;
-  width: 200px;
-  border-radius: 15px;
-  display: inline-block;
-  margin-left: 25px;
-  margin-right: 25px;
-  margin-top: 15px;
-  margin-bottom: 15px;
+  width: 250px;
+  padding: 10px;
+  margin: 1rem;
+  box-shadow: 7px 10px 12px -5px rgb(0,0,0,0.56);
+  text-align: center;
+  background-color: white;
+  border-radius: 3px;
 }
 
 .Pokeimg {
@@ -16,5 +14,9 @@
 }
 
 .Poketitle {
-  color: blue;
+  
+}
+
+.Pokedata {
+  font-size: 80%;
 }
