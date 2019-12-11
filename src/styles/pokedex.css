@@ -1,4 +1,8 @@
 .Pokedex {
+  text-align: center;
+}
+
+.Pokecards {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -6,4 +10,12 @@
 
 .Pokedextitle {
   color: gray;
+}
+
+.Pokewinner {
+  color: #4caf50;
+}
+
+.Pokeloser {
+  color: #e91e63;
 }
