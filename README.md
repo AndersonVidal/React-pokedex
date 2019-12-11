@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Previous vizualization
 
-![Pokegame](public\gameImage.PNG)
+![Pokegame](\public\gameImage.PNG)
